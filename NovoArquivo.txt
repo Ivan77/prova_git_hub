@@ -2,3 +2,4 @@ Aqui não tem nada importante
 Simulando conflito
 Outro conflito nessa linha
 teste release
+Teste de Netflix ou Hotfix
